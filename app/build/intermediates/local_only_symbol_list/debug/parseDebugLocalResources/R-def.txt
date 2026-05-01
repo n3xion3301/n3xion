@@ -1,0 +1,37 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+id action_about
+id action_search
+id action_settings
+id badge_unread
+id button_send
+id edit_message
+id fab_new_message
+id icon_encrypted
+id layout_input
+id recycler_conversations
+id recycler_messages
+id text_contact_name
+id text_empty_state
+id text_last_message
+id text_message
+id text_status
+id text_timestamp
+id toolbar
+layout activity_conversation
+layout activity_main
+layout item_conversation
+layout item_message_received
+layout item_message_sent
+menu menu_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.N3xion
